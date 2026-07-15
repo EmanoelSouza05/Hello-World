@@ -1,4 +1,4 @@
 # Hello World
 Primeiro_repositório de git e github
 
-Meu primeiro Repositório criado dirante uma aula ao vivo
+Meu primeiro Repositório. Não ligue para a bagunça, ainda estou aprendendo.
